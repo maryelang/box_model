@@ -1,0 +1,50 @@
+body>* {
+    border: 1px solid #000;
+    margin: 5px;
+    text-align:center;
+    font-size: 2rem; 
+
+}
+header {
+    padding: 3px;
+    height: 20vh;
+    text-align: center;
+    padding-top: 10px
+}
+
+
+nav {
+    padding: 3px;
+    height: 5vh;
+    text-align: center;
+}
+
+main {
+    height: 80vh;  
+}
+
+aside {
+    float: left;
+    width: 50%;
+    height: 80vh;
+    border: #000 1px solid;
+    text-align: center; 
+    line-height: 500px; 
+
+}
+
+section {
+    float: right;
+    width: 49%;
+    height: 80vh;
+    border: #000 1px solid;
+    text-align: center; 
+    line-height: 500px; 
+}
+
+footer {
+    padding: 3px;
+    height: 20vh;
+    text-align: center;
+    padding-top: 10px
+}
