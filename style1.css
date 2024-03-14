@@ -1,21 +1,14 @@
 body>* {
-    border: 1px solid #000;
-    margin: 5px;
-    text-align:center;
-    font-size: 2rem; 
-
-}
-header {
-    padding: 3px;
-    height: 20vh;
+    border: 2px solid #000; 
+    height: 100px;
+    margin: 2px;
     text-align: center;
-    padding-top: 10px
+    font-size: 2rem;
+
 }
 
 nav {
-    padding: 3px;
-    height: 5vh;
-    text-align: center;
+    height: 50px;
 }
 
 main {
@@ -26,9 +19,3 @@ main {
 
 }
 
-footer {
-    padding: 3px;
-    height: 20vh;
-    text-align: center;
-    padding-top: 10px
-}
